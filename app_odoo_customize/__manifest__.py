@@ -82,7 +82,7 @@
     'pre_init_hook': 'pre_init_hook',
     'installable': True,
     'application': True,
-    'auto_install': False,
+    'auto_install': True,
     'description': """
 
     App Customize Odoo (Change Title,Language,Documentation,Quick Debug)
